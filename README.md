@@ -26,16 +26,16 @@
 |`657`| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 73.6% | Easy |
 |`674`| [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | 45.9% | Easy |
 |`707`| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 24.6% | Medium |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 73.6% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 45.9% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 73.6% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 45.9% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 73.6% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 45.9% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 73.6% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 45.9% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 73.6% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 45.9% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 73.6% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 45.9% | Easy |
-|`14`| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 73.6% | Easy |
+|`771`| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 86.4% | Easy |
+|`852`| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | 71.6% | Easy |
+|`860`| [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | 51.6% | Easy |
+|`905`| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 74.1% | Easy |
+|`941`| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | 33.1% | Easy |
+|`977`| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 72.2% | Easy |
+|`1051`| [Height Checker](https://leetcode.com/problems/height-checker/) | 71.3% | Easy |
+|`1089`| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | 52.9% | Easy |
+|`1281`| Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 85.2% | Easy |
+|`1295`| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 81.3% | Easy |
+|`1299`| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | 75.3% | Easy |
+|`1342`| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | 86.3% | Easy |
+|`1346`| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | 37.7% | Easy |
