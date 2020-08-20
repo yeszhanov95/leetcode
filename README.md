@@ -41,3 +41,4 @@
 |`1346`| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | ~ August 2020 | 37.7% | Easy |
 |`268`| [Missing Number](https://leetcode.com/problems/missing-number/) | 20th August 2020 | 51.8% | Easy |
 |`643`| [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 20th August 2020 | 41.5% | Easy |
+|`304`| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | 20th August 2020 | 38.7% | Medium |
