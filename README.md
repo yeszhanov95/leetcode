@@ -42,3 +42,4 @@
 |`268`| [Missing Number](https://leetcode.com/problems/missing-number/) | 20th August 2020 | 51.8% | Easy |
 |`643`| [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 20th August 2020 | 41.5% | Easy |
 |`304`| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | 20th August 2020 | 38.7% | Medium |
+|`500`| [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 20th August 2020 | 64.8% | Easy |
