@@ -39,3 +39,4 @@
 |`1299`| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | ~ August 2020 | 75.3% | Easy |
 |`1342`| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ~ August 2020 | 86.3% | Easy |
 |`1346`| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | ~ August 2020 | 37.7% | Easy |
+|`268`| [Missing Number](https://leetcode.com/problems/missing-number/) | 20th August 2020 | 51.8% | Easy |
