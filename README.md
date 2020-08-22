@@ -45,3 +45,4 @@
 |`500`| [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 20th August 2020 | 64.8% | Easy |
 |`766`| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 21th August 2020 | 65.1% | Easy |
 |`54`| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 21th August 2020 | 34.2% | Medium |
+|`53`| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | 22th August 2020 | 46.6% | Easy |
