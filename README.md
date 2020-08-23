@@ -48,3 +48,4 @@
 |`53`| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | 22th August 2020 | 46.6% | Easy |
 |`242`| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 23th August 2020 | 57.0% | Easy |
 |`217`| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 23th August 2020 | 56.1% | Easy |
+|`215`| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 23th August 2020 | 55.6% | Medium |
