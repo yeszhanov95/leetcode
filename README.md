@@ -46,3 +46,4 @@
 |`766`| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 21th August 2020 | 65.1% | Easy |
 |`54`| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 21th August 2020 | 34.2% | Medium |
 |`53`| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | 22th August 2020 | 46.6% | Easy |
+|`242`| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 23th August 2020 | 57.0% | Easy |
