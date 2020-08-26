@@ -5,17 +5,23 @@ import "fmt"
 func main() {
 	arr := []int{ 2, 5, 2, 8, 6, 9 }
 	fmt.Println(arr)
-	insertionSort(arr)
-	fmt.Println(arr)
+	sorted := insertionSort(arr)
+	fmt.Println(sorted)
 }
 
-func insertionSort(arr []int) {
-	for i := 1; i < len(arr); i++ {
+func insertionSort(arr []int) []int {
+	length := len(arr)
+	result := make([]int, length)
+	copy(result, arr)
+
+	for i := 1; i < length; i++ {
 		for j := i; j >= 0; j-- {
-			if arr[j] >= arr[j-1] {
+			if result[j] >= result[j-1] {
 				break
 			}
-			arr[j], arr[j-1] = arr[j-1], arr[j]
+			result[j], result[j-1] = result[j-1], result[j]
 		}
 	}
+
+	return result
 }
