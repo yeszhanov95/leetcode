@@ -54,3 +54,4 @@
 |`147`| [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | 26th August 2020 | 41.2% | Medium |
 |`912`| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 27th August 2020 | 64% | Medium |
 |`349`| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 28th August 2020 | 62.7% | Easy |
+|`350`| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 28th August 2020 | 51.5% | Easy |
