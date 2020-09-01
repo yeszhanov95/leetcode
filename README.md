@@ -57,3 +57,4 @@
 |`350`| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 28 August 2020 | 51.5% | Easy |
 |`148`| [Sort List](https://leetcode.com/problems/sort-list/) | 31 August 2020 | 42.8% | Medium |
 |`1`| [Two Sum](https://leetcode.com/problems/two-sum/) | 1 Septemper 2020 | 45.7% | Easy |
+|`49`| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 1 Septemper 2020 | 57.2% | Medium |
