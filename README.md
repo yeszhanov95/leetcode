@@ -39,20 +39,21 @@
 |`1299`| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | ~ August 2020 | 75.3% | Easy |
 |`1342`| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ~ August 2020 | 86.3% | Easy |
 |`1346`| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | ~ August 2020 | 37.7% | Easy |
-|`268`| [Missing Number](https://leetcode.com/problems/missing-number/) | 20th August 2020 | 51.8% | Easy |
-|`643`| [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 20th August 2020 | 41.5% | Easy |
-|`304`| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | 20th August 2020 | 38.7% | Medium |
-|`500`| [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 20th August 2020 | 64.8% | Easy |
-|`766`| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 21th August 2020 | 65.1% | Easy |
-|`54`| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 21th August 2020 | 34.2% | Medium |
-|`53`| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | 22th August 2020 | 46.6% | Easy |
-|`242`| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 23th August 2020 | 57.0% | Easy |
-|`217`| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 23th August 2020 | 56.1% | Easy |
-|`215`| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 23th August 2020 | 55.6% | Medium |
-|`56`| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 23th August 2020 | 39.4% | Medium |
-|`179`| [Largest Number](https://leetcode.com/problems/largest-number/) | 24th August 2020 | 28.9% | Medium |
-|`147`| [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | 26th August 2020 | 41.2% | Medium |
-|`912`| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 27th August 2020 | 64% | Medium |
-|`349`| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 28th August 2020 | 62.7% | Easy |
-|`350`| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 28th August 2020 | 51.5% | Easy |
-|`148`| [Sort List](https://leetcode.com/problems/sort-list/) | 31th August 2020 | 42.8% | Medium |
+|`268`| [Missing Number](https://leetcode.com/problems/missing-number/) | 20 August 2020 | 51.8% | Easy |
+|`643`| [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 20 August 2020 | 41.5% | Easy |
+|`304`| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | 20 August 2020 | 38.7% | Medium |
+|`500`| [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 20 August 2020 | 64.8% | Easy |
+|`766`| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 21 August 2020 | 65.1% | Easy |
+|`54`| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 21 August 2020 | 34.2% | Medium |
+|`53`| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | 22 August 2020 | 46.6% | Easy |
+|`242`| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 23 August 2020 | 57.0% | Easy |
+|`217`| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 23 August 2020 | 56.1% | Easy |
+|`215`| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 23 August 2020 | 55.6% | Medium |
+|`56`| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 23 August 2020 | 39.4% | Medium |
+|`179`| [Largest Number](https://leetcode.com/problems/largest-number/) | 24 August 2020 | 28.9% | Medium |
+|`147`| [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | 26 August 2020 | 41.2% | Medium |
+|`912`| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 27 August 2020 | 64% | Medium |
+|`349`| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 28 August 2020 | 62.7% | Easy |
+|`350`| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 28 August 2020 | 51.5% | Easy |
+|`148`| [Sort List](https://leetcode.com/problems/sort-list/) | 31 August 2020 | 42.8% | Medium |
+|`1`| [Two Sum](https://leetcode.com/problems/two-sum/) | 1 Septemper 2020 | 45.7% | Easy |
