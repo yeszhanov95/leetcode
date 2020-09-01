@@ -58,3 +58,4 @@
 |`148`| [Sort List](https://leetcode.com/problems/sort-list/) | 31 August 2020 | 42.8% | Medium |
 |`1`| [Two Sum](https://leetcode.com/problems/two-sum/) | 1 Septemper 2020 | 45.7% | Easy |
 |`49`| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 1 Septemper 2020 | 57.2% | Medium |
+|`290`| [Word Pattern](https://leetcode.com/problems/word-pattern/) | 1 Septemper 2020 | 37% | Easy |
