@@ -59,3 +59,4 @@
 |`1`| [Two Sum](https://leetcode.com/problems/two-sum/) | 1 Septemper 2020 | 45.7% | Easy |
 |`49`| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 1 Septemper 2020 | 57.2% | Medium |
 |`290`| [Word Pattern](https://leetcode.com/problems/word-pattern/) | 1 Septemper 2020 | 37% | Easy |
+|`219`| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 2 Septemper 2020 | 37.8% | Easy |
