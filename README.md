@@ -60,3 +60,4 @@
 |`49`| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 1 Septemper 2020 | 57.2% | Medium |
 |`290`| [Word Pattern](https://leetcode.com/problems/word-pattern/) | 1 Septemper 2020 | 37% | Easy |
 |`219`| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 2 Septemper 2020 | 37.8% | Easy |
+|`347`| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 3 Septemper 2020 | 61.4% | Medium |
