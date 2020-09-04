@@ -56,11 +56,11 @@
 |`349`| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 28 August 2020 | 62.7% | Easy |
 |`350`| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 28 August 2020 | 51.5% | Easy |
 |`148`| [Sort List](https://leetcode.com/problems/sort-list/) | 31 August 2020 | 42.8% | Medium |
-|`1`| [Two Sum](https://leetcode.com/problems/two-sum/) | 1 Septemper 2020 | 45.7% | Easy |
-|`49`| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 1 Septemper 2020 | 57.2% | Medium |
-|`290`| [Word Pattern](https://leetcode.com/problems/word-pattern/) | 1 Septemper 2020 | 37% | Easy |
-|`219`| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 2 Septemper 2020 | 37.8% | Easy |
-|`347`| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 3 Septemper 2020 | 61.4% | Medium |
-|`398`| [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | 4 Septemper 2020 | 56.3% | Medium |
-|`884`| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | 4 Septemper 2020 | 63.4% | Easy |
-|`1365`| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 4 Septemper 2020 | 85.7% | Easy |
+|`1`| [Two Sum](https://leetcode.com/problems/two-sum/) | 1 September 2020 | 45.7% | Easy |
+|`49`| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 1 September 2020 | 57.2% | Medium |
+|`290`| [Word Pattern](https://leetcode.com/problems/word-pattern/) | 1 September 2020 | 37% | Easy |
+|`219`| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 2 September 2020 | 37.8% | Easy |
+|`347`| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 3 September 2020 | 61.4% | Medium |
+|`398`| [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | 4 September 2020 | 56.3% | Medium |
+|`884`| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | 4 September 2020 | 63.4% | Easy |
+|`1365`| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 4 September 2020 | 85.7% | Easy |
