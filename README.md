@@ -64,3 +64,4 @@
 |`398`| [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | 4 September 2020 | 56.3% | Medium |
 |`884`| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | 4 September 2020 | 63.4% | Easy |
 |`1365`| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 4 September 2020 | 85.7% | Easy |
+|`1207`| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 5 September 2020 | 71.7% | Easy |
