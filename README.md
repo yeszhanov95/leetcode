@@ -68,3 +68,4 @@
 |`20`| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 5 September 2020 | 39.1% | Easy |
 |`844`| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 6 September 2020 | 46.6% | Easy |
 |`150`| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 6 September 2020 | 36.6% | Medium |
+|`1047`| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 6 September 2020 | 69.1% | Easy |
