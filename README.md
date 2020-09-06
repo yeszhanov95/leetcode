@@ -67,3 +67,4 @@
 |`1207`| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 5 September 2020 | 71.7% | Easy |
 |`20`| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 5 September 2020 | 39.1% | Easy |
 |`844`| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 6 September 2020 | 46.6% | Easy |
+|`150`| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 6 September 2020 | 36.6% | Medium |
