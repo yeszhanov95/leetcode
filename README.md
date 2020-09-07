@@ -70,3 +70,4 @@
 |`150`| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 6 September 2020 | 36.6% | Medium |
 |`1047`| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 6 September 2020 | 69.1% | Easy |
 |`1544`| [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | 7 September 2020 | 54.3% | Easy |
+|`206`| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 7 September 2020 | 63% | Easy |
