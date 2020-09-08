@@ -71,3 +71,4 @@
 |`1047`| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 6 September 2020 | 69.1% | Easy |
 |`1544`| [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | 7 September 2020 | 54.3% | Easy |
 |`206`| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 7 September 2020 | 63% | Easy |
+|`21`| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 8 September 2020 | 53.9% | Easy |
