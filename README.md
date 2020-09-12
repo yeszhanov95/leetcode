@@ -73,3 +73,4 @@
 |`206`| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 7 September 2020 | 63% | Easy |
 |`21`| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 8 September 2020 | 53.9% | Easy |
 |`876`| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 12 September 2020 | 68.6% | Easy |
+|`1290`| [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | 12 September 2020 | 80.7% | Easy |
