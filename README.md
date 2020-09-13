@@ -76,3 +76,4 @@
 |`1290`| [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | 12 September 2020 | 80.7% | Easy |
 |`1019`| [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | 13 September 2020 | 58.1% | Medium |
 |`83`| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 13 September 2020 | 45.7% | Easy |
+|`82`| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 13 September 2020 | 37.2% | Medium |
