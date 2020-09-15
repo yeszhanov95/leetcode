@@ -77,3 +77,4 @@
 |`1019`| [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | 13 September 2020 | 58.1% | Medium |
 |`83`| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 13 September 2020 | 45.7% | Easy |
 |`82`| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 13 September 2020 | 37.2% | Medium |
+|`55`| [Jump Game](https://leetcode.com/problems/jump-game/) | 15 September 2020 | 34.7% | Medium |
