@@ -80,3 +80,4 @@
 |`55`| [Jump Game](https://leetcode.com/problems/jump-game/) | 15 September 2020 | 34.7% | Medium |
 |`692`| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 16 September 2020 | 52.2% | Medium |
 |`151`| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 17 September 2020 | 22.2% | Medium |
+|`482`| [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | 17 September 2020 | 43.0% | Easy |
