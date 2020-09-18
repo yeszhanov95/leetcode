@@ -81,4 +81,5 @@
 |`692`| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 16 September 2020 | 52.2% | Medium |
 |`151`| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 17 September 2020 | 22.2% | Medium |
 |`482`| [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | 17 September 2020 | 43.0% | Easy |
-|`557`| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 18 September 2020 | 70.4.0% | Easy |
+|`557`| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 18 September 2020 | 70.4% | Easy |
+|`459`| [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 18 September 2020 | 43.1% | Easy |
