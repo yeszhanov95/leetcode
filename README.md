@@ -84,3 +84,4 @@
 |`557`| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 18 September 2020 | 70.4% | Easy |
 |`459`| [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 18 September 2020 | 43.1% | Easy |
 |`415`| [Add Strings](https://leetcode.com/problems/add-strings/) | 19 September 2020 | 47.7% | Easy |
+|`989`| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | 19 September 2020 | 44.4% | Easy |
