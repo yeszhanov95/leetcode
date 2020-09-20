@@ -85,3 +85,4 @@
 |`459`| [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 18 September 2020 | 43.1% | Easy |
 |`415`| [Add Strings](https://leetcode.com/problems/add-strings/) | 19 September 2020 | 47.7% | Easy |
 |`989`| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | 19 September 2020 | 44.4% | Easy |
+|`2`| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 20 September 2020 | 34.2% | Medium |
