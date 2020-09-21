@@ -86,3 +86,4 @@
 |`415`| [Add Strings](https://leetcode.com/problems/add-strings/) | 19 September 2020 | 47.7% | Easy |
 |`989`| [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | 19 September 2020 | 44.4% | Easy |
 |`2`| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 20 September 2020 | 34.2% | Medium |
+|`1358`| [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 21 September 2020 | 58.9% | Medium |
