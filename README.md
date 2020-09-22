@@ -88,3 +88,4 @@
 |`2`| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 20 September 2020 | 34.2% | Medium |
 |`1358`| [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 21 September 2020 | 58.9% | Medium |
 |`1004`| [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | 22 September 2020 | 59.6% | Medium |
+|`1456`| [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 22 September 2020 | 52.9% | Medium |
