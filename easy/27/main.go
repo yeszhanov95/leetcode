@@ -1,12 +1,13 @@
 package main
 
 func removeElement(nums []int, val int) int {
-	idx := 0
-	for _, v := range nums {
-		if v != val {
-			nums[idx] = v
-			idx++
+	curIdx, lastIdx := 0, len(nums) - 1
+	for curIdx <= lastIdx {
+		if nums[curIdx] == val {
+			nums[curIdx], lastIdx = nums[lastIdx], lastIdx - 1
+		} else {
+			curIdx++
 		}
 	}
-	return idx
+	return curIdx
 }
