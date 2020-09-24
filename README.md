@@ -91,3 +91,4 @@
 |`1456`| [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 22 September 2020 | 52.9% | Medium |
 |`345`| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 23 September 2020 | 44.4% | Easy |
 |`167`| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 23 September 2020 | 54.5% | Easy |
+|`228`| [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | 24 September 2020 | 39.8% | Medium |
