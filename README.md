@@ -95,3 +95,4 @@
 |`75`| [Sort Colors](https://leetcode.com/problems/sort-colors/) | 24 September 2020 | 47.8% | Medium |
 |`15`| [3Sum](https://leetcode.com/problems/3sum/) | 25 September 2020 | 27.1% | Medium |
 |`16`| [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 25 September 2020 | 46.1% | Medium |
+|`18`| [4Sum](https://leetcode.com/problems/4sum/) | 26 September 2020 | 33.9% | Medium |
