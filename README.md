@@ -97,4 +97,4 @@
 |`16`| [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 25 September 2020 | 46.1% | Medium |
 |`18`| [4Sum](https://leetcode.com/problems/4sum/) | 26 September 2020 | 33.9% | Medium |
 |`18`| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 26 September 2020 | 30.6% | Medium |
-|`1137`| [4Sum](https://leetcode.com/problems/n-th-tribonacci-number/) | 28 September 2020 | 55.7% | Easy |
+|`1137`| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | 28 September 2020 | 55.7% | Easy |
