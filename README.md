@@ -98,3 +98,4 @@
 |`18`| [4Sum](https://leetcode.com/problems/4sum/) | 26 September 2020 | 33.9% | Medium |
 |`18`| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 26 September 2020 | 30.6% | Medium |
 |`1137`| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | 28 September 2020 | 55.7% | Easy |
+|`779`| [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | 29 September 2020 | 37.6% | Medium |
