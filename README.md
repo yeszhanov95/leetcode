@@ -100,3 +100,4 @@
 |`1137`| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | 28 September 2020 | 55.7% | Easy |
 |`779`| [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | 29 September 2020 | 37.6% | Medium |
 |`24`| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 6 October 2020 | 51.1% | Medium |
+|`700`| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | 7 October 2020 | 73.3% | Easy |
