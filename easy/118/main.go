@@ -1,26 +1,14 @@
 package main
 
 func generate(numRows int) [][]int {
-	result := make([][]int, numRows)
-	if numRows == 0 {
-		return result
-	}
-	result[0] = []int{1}
-	if numRows == 1 {
-		return result
-	}
-	result[1] = []int{ 1, 1 }
-
-	for i := 2; i < numRows; i++ {
-		inner := make([]int, i + 1)
-		inner[0] = 1
-		inner[len(inner)-1] = 1
-
-		for j := 1; j < len(inner) - 1; j++ {
-			inner[j] = result[i-1][j-1] + result[i-1][j]
+	res := make([][]int, numRows)
+	for idx := 0 ; numRows > 0; numRows, idx = numRows-1, idx+1 {
+		slice := make([]int, idx+1)
+		slice[0], slice[len(slice)-1] = 1, 1
+		for j := 1; j < len(slice)-1; j++ {
+			slice[j] = res[idx-1][j-1] + res[idx-1][j]
 		}
-		result[i] = inner
+		res[idx] = slice
 	}
-
-	return result
+	return res
 }
