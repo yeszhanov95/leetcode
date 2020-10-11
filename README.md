@@ -105,3 +105,4 @@
 |`509`| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 8 October 2020 | 67.2% | Easy |
 |`70`| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 8 October 2020 | 48.1% | Easy |
 |`50`| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 10 October 2020 | 30.5% | Medium |
+|`50`| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 11 October 2020 | 28% | Medium |
