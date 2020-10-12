@@ -108,3 +108,4 @@
 |`50`| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 11 October 2020 | 28% | Medium |
 |`74`| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 11 October 2020 | 36.7% | Medium |
 |`240`| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 12 October 2020 | 43.4% | Medium |
+|`240`| [N-Queens](https://leetcode.com/problems/n-queens/) | 12 October 2020 | 47.7% | Hard |
