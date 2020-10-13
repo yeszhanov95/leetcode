@@ -1,69 +1,60 @@
 package main
 
-var board [][]int
 var result [][]string
+var queenPlacemets []int
+var N int
 
 func solveNQueens(n int) [][]string {
 	if n == 0 { return [][]string{ {} }}
 	if n == 1 { return [][]string{ {"Q"} }}
 	if n < 4 { return [][]string{} }
 
-	board = make([][]int, 0, n)
-	for i := 0; i < n; i++ {
-		board = append(board, make([]int, n))
-	}
-
-	result = make([][]string, 0)
-	helper(0, n, nil)
-
+	result, queenPlacemets, N = make([][]string, 0), make([]int, 0, n), n
+	helper(0)
 	return result
 }
 
-func helper(row, n int, cur []string) {
-	for col := 0; col < n; col++ {
-		if row == 0 { cur = make([]string, 0, n) }
-
-		if board[row][col] == 0 {
-			cur = append(cur, placeQueen(row, col))
-
-			if row + 1 == n && len(cur) == n {
-				result = append(result, cur)
+func helper(row int) {
+	for col := 0; col < N; col++ {
+		if isValid(row, col) {
+			queenPlacemets = append(queenPlacemets, col)
+			if row + 1 == N {
+				generateCombination()
 			} else {
-				helper(row + 1, n, append([]string{}, cur...))
+				helper(row + 1)
 			}
-
-			cur = cur[:len(cur)-1]
-			removeQueen(row, col)
+			queenPlacemets = queenPlacemets[:len(queenPlacemets)-1]
 		}
 	}
 }
 
-func placeQueen(row, col int) string {
-	for i := 0; i < len(board); i++ { board[row][i]++ }
-	for i := 1; i < len(board); i++ { board[i][col]++ }
-
-	for i, j := row + 1, col + 1; i < len(board) && j < len(board); i, j = i + 1, j + 1 { board[i][j]++ }
-	for i, j := row - 1, col - 1; i >= 0 && j >= 0; i, j = i - 1, j - 1 { board[i][j]++ }
-	for i, j := row - 1, col + 1; i >= 0 && j < len(board); i, j = i - 1, j + 1 { board[i][j]++ }
-	for i, j := row + 1, col - 1; i < len(board) && j >= 0; i, j = i + 1, j - 1 { board[i][j]++ }
-
-	runes := make([]rune, 0, len(board))
-	for i := 0; i < len(board); i++ {
-		if i == col {
-			runes = append(runes, 'Q')
-		} else {
-			runes = append(runes, '.')
+func isValid(row, col int) bool {
+	for i := 0; i < row; i++ {
+		diff := abs(queenPlacemets[i] - col)
+		if diff == 0 || diff == row - i {
+			return false
 		}
 	}
-	return string(runes)
+	return true
 }
 
-func removeQueen(row, col int) {
-	for i := 0; i < len(board); i++ { board[row][i]-- }
-	for i := 1; i < len(board); i++ { board[i][col]-- }
+func generateCombination() {
+	tmp := make([]string, 0, N)
+	for _, col := range queenPlacemets {
+		runes := make([]rune, 0, N)
+		for i := 0; i < N; i++ {
+			if i == col {
+				runes = append(runes, 'Q')
+			} else {
+				runes = append(runes, '.')
+			}
+		}
+		tmp = append(tmp, string(runes))
+	}
+	result = append(result, tmp)
+}
 
-	for i, j := row + 1, col + 1; i < len(board) && j < len(board); i, j = i + 1, j + 1 { board[i][j]-- }
-	for i, j := row - 1, col - 1; i >= 0 && j >= 0; i, j = i - 1, j - 1 { board[i][j]-- }
-	for i, j := row - 1, col + 1; i >= 0 && j < len(board); i, j = i - 1, j + 1 { board[i][j]-- }
-	for i, j := row + 1, col - 1; i < len(board) && j >= 0; i, j = i + 1, j - 1 { board[i][j]-- }
+func abs(num int) int {
+	if num < 0 { return -num }
+	return num
 }
