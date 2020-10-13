@@ -96,7 +96,7 @@
 |`15`| [3Sum](https://leetcode.com/problems/3sum/) | 25 September 2020 | 27.1% | Medium |
 |`16`| [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 25 September 2020 | 46.1% | Medium |
 |`18`| [4Sum](https://leetcode.com/problems/4sum/) | 26 September 2020 | 33.9% | Medium |
-|`18`| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 26 September 2020 | 30.6% | Medium |
+|`3`| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 26 September 2020 | 30.6% | Medium |
 |`1137`| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | 28 September 2020 | 55.7% | Easy |
 |`779`| [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | 29 September 2020 | 37.6% | Medium |
 |`24`| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 6 October 2020 | 51.1% | Medium |
@@ -105,7 +105,8 @@
 |`509`| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 8 October 2020 | 67.2% | Easy |
 |`70`| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 8 October 2020 | 48.1% | Easy |
 |`50`| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 10 October 2020 | 30.5% | Medium |
-|`50`| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 11 October 2020 | 28% | Medium |
+|`98`| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 11 October 2020 | 28% | Medium |
 |`74`| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 11 October 2020 | 36.7% | Medium |
 |`240`| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 12 October 2020 | 43.4% | Medium |
-|`240`| [N-Queens](https://leetcode.com/problems/n-queens/) | 12 October 2020 | 47.7% | Hard |
+|`51`| [N-Queens](https://leetcode.com/problems/n-queens/) | 12 October 2020 | 47.7% | Hard |
+|`52`| [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | 13 October 2020 | 58.7% | Hard |
