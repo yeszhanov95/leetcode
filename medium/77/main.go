@@ -1,14 +1,6 @@
 package main
 
 func combine(n int, k int) [][]int {
-	if n == k {
-		cur := make([]int, k)
-		for i := 1; i <= n; i++ {
-			cur[i-1] = i
-		}
-		return [][]int{cur}
-	}
-
 	res, cur := make([][]int, 0), make([]int, 0, k)
 	helper(1, n, cur, &res)
 	return res
