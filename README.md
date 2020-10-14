@@ -111,3 +111,4 @@
 |`51`| [N-Queens](https://leetcode.com/problems/n-queens/) | 12 October 2020 | 47.7% | Hard |
 |`52`| [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | 13 October 2020 | 58.7% | Hard |
 |`77`| [Combinations](https://leetcode.com/problems/combinations/) | 14 October 2020 | 55.7% | Medium |
+|`100`| [Same Tree](https://leetcode.com/problems/same-tree/) | 14 October 2020 | 53.7% | Easy |
