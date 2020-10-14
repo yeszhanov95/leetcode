@@ -110,3 +110,4 @@
 |`240`| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 12 October 2020 | 43.4% | Medium |
 |`51`| [N-Queens](https://leetcode.com/problems/n-queens/) | 12 October 2020 | 47.7% | Hard |
 |`52`| [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | 13 October 2020 | 58.7% | Hard |
+|`77`| [Combinations](https://leetcode.com/problems/combinations/) | 14 October 2020 | 55.7% | Medium |
