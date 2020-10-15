@@ -13,11 +13,6 @@ func helper(nums, cur []int, res *[][]int) {
 	}
 	for i := 0; i < len(nums); i++ {
 		tmp := append([]int{}, nums...)
-		switch i {
-		case 0: tmp = tmp[1:]
-		case (len(nums) - 1): tmp = tmp[:len(nums) - 1]
-		default: tmp = append(tmp[:i], tmp[i+1:]...)
-		}
-		helper(tmp, append(cur, nums[i]), res)
+		helper(append(tmp[:i], tmp[i+1:]...), append(cur, nums[i]), res)
 	}
 }
