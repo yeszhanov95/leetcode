@@ -114,3 +114,4 @@
 |`100`| [Same Tree](https://leetcode.com/problems/same-tree/) | 14 October 2020 | 53.7% | Easy |
 |`22`| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 15 October 2020 | 63.8% | Medium |
 |`102`| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 15 October 2020 | 55.4% | Medium |
+|`46`| [Permutations](https://leetcode.com/problems/permutations/) | 15 October 2020 | 64.7% | Medium |
