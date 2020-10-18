@@ -117,3 +117,4 @@
 |`46`| [Permutations](https://leetcode.com/problems/permutations/) | 15 October 2020 | 64.7% | Medium |
 |`504`| [Base 7](https://leetcode.com/problems/base-7/) | 16 October 2020 | 46.3% | Easy |
 |`204`| [Count Primes](https://leetcode.com/problems/count-primes/) | 16 October 2020 | 31.8% | Easy |
+|`704`| [Binary Search](https://leetcode.com/problems/binary-search/) | 18 October 2020 | 53.7% | Easy |
