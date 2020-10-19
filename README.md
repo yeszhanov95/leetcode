@@ -120,3 +120,4 @@
 |`704`| [Binary Search](https://leetcode.com/problems/binary-search/) | 18 October 2020 | 53.7% | Easy |
 |`33`| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 18 October 2020 | 35.1% | Medium |
 |`278`| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | 19 October 2020 | 36.5% | Easy |
+|`153`| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 19 October 2020 | 45.4% | Medium |
