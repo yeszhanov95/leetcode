@@ -119,3 +119,4 @@
 |`204`| [Count Primes](https://leetcode.com/problems/count-primes/) | 16 October 2020 | 31.8% | Easy |
 |`704`| [Binary Search](https://leetcode.com/problems/binary-search/) | 18 October 2020 | 53.7% | Easy |
 |`33`| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 18 October 2020 | 35.1% | Medium |
+|`278`| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | 19 October 2020 | 36.5% | Easy |
