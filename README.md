@@ -126,3 +126,4 @@
 |`367`| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | 21 October 2020 | 41.9% | Easy |
 |`141`| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 21 October 2020 | 41.7% | Easy |
 |`287`| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 21 October 2020 | 41.3% | Medium |
+|`81`| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 21 October 2020 | 33.0% | Medium |
