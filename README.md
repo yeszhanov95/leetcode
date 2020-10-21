@@ -123,3 +123,6 @@
 |`153`| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 19 October 2020 | 45.4% | Medium |
 |`34`| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 20 October 2020 | 36.6% | Medium |
 |`658`| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 20 October 2020 | 41.3% | Medium |
+|`367`| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | 21 October 2020 | 41.9% | Easy |
+|`141`| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 21 October 2020 | 41.7% | Easy |
+|`287`| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 21 October 2020 | 41.3% | Medium |
