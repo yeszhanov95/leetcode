@@ -127,3 +127,4 @@
 |`141`| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 21 October 2020 | 41.7% | Easy |
 |`287`| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 21 October 2020 | 41.3% | Medium |
 |`81`| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 21 October 2020 | 33.0% | Medium |
+|`461`| [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | 25 October 2020 | 73.0% | Easy |
