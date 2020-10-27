@@ -133,3 +133,4 @@
 |`201`| [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | 26 October 2020 | 35.5% | Medium |
 |`784`| [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | 26 October 2020 | 65.5% | Medium |
 |`477`| [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | 27 October 2020 | 50.5% | Medium |
+|`137`| [Single Number II](https://leetcode.com/problems/single-number-ii/) | 27 October 2020 | 53.0% | Medium |
