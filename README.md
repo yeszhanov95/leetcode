@@ -135,3 +135,4 @@
 |`477`| [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | 27 October 2020 | 50.5% | Medium |
 |`137`| [Single Number II](https://leetcode.com/problems/single-number-ii/) | 27 October 2020 | 53.0% | Medium |
 |`547`| [Friend Circles](https://leetcode.com/problems/friend-circles/) | 30 October 2020 | 59.3% | Medium |
+|`841`| [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | 30 October 2020 | 64.8% | Medium |
