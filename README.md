@@ -141,3 +141,4 @@
 |`733`| [Flood Fill](https://leetcode.com/problems/flood-fill/) | 1 November 2020 | 55.6% | Easy |
 |`210`| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 3 November 2020 | 41.6% | Medium |
 |`130`| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 4 November 2020 | 28.7% | Medium |
+|`695`| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 4 November 2020 | 63.6% | Medium |
