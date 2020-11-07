@@ -144,3 +144,4 @@
 |`695`| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 4 November 2020 | 63.6% | Medium |
 |`542`| [01 Matrix](https://leetcode.com/problems/01-matrix/) | 5 November 2020 | 40.3% | Medium |
 |`144`| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 6 November 2020 | 56.6% | Medium |
+|`94`| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 7 November 2020 | 64.6% | Medium |
