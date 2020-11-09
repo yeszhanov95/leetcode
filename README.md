@@ -146,3 +146,4 @@
 |`144`| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 6 November 2020 | 56.6% | Medium |
 |`94`| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 7 November 2020 | 64.6% | Medium |
 |`145`| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 7 November 2020 | 56.3% | Medium |
+|`104`| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 9 November 2020 | 66.8% | Easy |
