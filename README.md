@@ -149,3 +149,5 @@
 |`104`| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 9 November 2020 | 66.8% | Easy |
 |`112`| [Path Sum](https://leetcode.com/problems/path-sum/) | 9 November 2020 | 41.8% | Easy |
 |`226`| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 10 November 2020 | 66.0% | Easy |
+|`226`| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 10 November 2020 | 66.0% | Easy |
+|`113`| [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 11 November 2020 | 47.9% | Easy |
