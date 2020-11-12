@@ -150,4 +150,5 @@
 |`112`| [Path Sum](https://leetcode.com/problems/path-sum/) | 9 November 2020 | 41.8% | Easy |
 |`226`| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 10 November 2020 | 66.0% | Easy |
 |`226`| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 10 November 2020 | 66.0% | Easy |
-|`113`| [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 11 November 2020 | 47.9% | Easy |
+|`113`| [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 11 November 2020 | 47.9% | Medium |
+|`129`| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 12 November 2020 | 50% | Medium |
