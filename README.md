@@ -153,3 +153,4 @@
 |`113`| [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 11 November 2020 | 47.9% | Medium |
 |`129`| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 12 November 2020 | 50% | Medium |
 |`199`| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 12 November 2020 | 55.2% | Medium |
+|`114`| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 12 November 2020 | 50.7% | Medium |
