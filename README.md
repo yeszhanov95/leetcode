@@ -156,3 +156,4 @@
 |`114`| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 12 November 2020 | 50.7% | Medium |
 |`103`| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 13 November 2020 | 49.2% | Medium |
 |`222`| [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 15 November 2020 | 48.1% | Medium |
+|`105`| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 15 November 2020 | 50.4% | Medium |
