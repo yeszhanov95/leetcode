@@ -157,3 +157,4 @@
 |`103`| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 13 November 2020 | 49.2% | Medium |
 |`222`| [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 15 November 2020 | 48.1% | Medium |
 |`105`| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 15 November 2020 | 50.4% | Medium |
+|`106`| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 16 November 2020 | 48.5% | Medium |
