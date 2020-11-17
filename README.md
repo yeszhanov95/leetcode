@@ -160,3 +160,4 @@
 |`106`| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 16 November 2020 | 48.5% | Medium |
 |`116`| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 16 November 2020 | 47.6% | Medium |
 |`589`| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | 17 November 2020 | 72.8% | Easy |
+|`590`| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | 17 November 2020 | 72.8% | Easy |
