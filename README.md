@@ -158,3 +158,5 @@
 |`222`| [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 15 November 2020 | 48.1% | Medium |
 |`105`| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 15 November 2020 | 50.4% | Medium |
 |`106`| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 16 November 2020 | 48.5% | Medium |
+|`116`| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 16 November 2020 | 47.6% | Medium |
+|`589`| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | 17 November 2020 | 72.8% | Easy |
