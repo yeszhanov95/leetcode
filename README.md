@@ -165,3 +165,4 @@
 |`559`| [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 17 November 2020 | 69.1% | Easy |
 |`230`| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 19 November 2020 | 61.6% | Medium |
 |`173`| [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | 19 November 2020 | 58.1% | Medium |
+|`701`| [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 19 November 2020 | 70.6% | Medium |
