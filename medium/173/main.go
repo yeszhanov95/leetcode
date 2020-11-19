@@ -5,7 +5,7 @@ type TreeNode struct {
     Left *TreeNode
     Right *TreeNode
  }
- 
+
 type BSTIterator struct {
 	data []int
 	currIndex int
