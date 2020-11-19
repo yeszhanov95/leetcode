@@ -163,3 +163,4 @@
 |`590`| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | 17 November 2020 | 72.8% | Easy |
 |`429`| [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 17 November 2020 | 65.9% | Medium |
 |`559`| [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 17 November 2020 | 69.1% | Easy |
+|`230`| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 19 November 2020 | 61.6% | Medium |
