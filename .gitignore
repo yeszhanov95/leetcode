@@ -15,3 +15,6 @@ idea/
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+/.idea/*.gitignore
+/.idea/*.iml
+/.idea
