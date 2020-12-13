@@ -170,3 +170,15 @@
 |`703`| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 22 November 2020 | 50.3% | Easy |
 |`235`| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 22 November 2020 | 50.9% | Easy |
 |`236`| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 22 November 2020 | 47.4% | Medium |
+|`746`| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 27 November 2020 | 50.7% | Easy |
+|`322`| [Coin Change](https://leetcode.com/problems/coin-change/) | 29 November 2020 | 36.6% | Medium |
+|`518`| [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | 29 November 2020 | 51.2% | Medium |
+|`416`| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 29 November 2020 | 54.6% | Medium |
+|`62`| [Unique Paths](https://leetcode.com/problems/unique-paths/) | 30 November 2020 | 55.3% | Medium |
+|`64`| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 30 November 2020 | 55.6% | Medium |
+|`300`| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 3 December 2020 | 43.2% | Medium |
+|`198`| [House Robber](https://leetcode.com/problems/house-robber/) | 6 December 2020 | 42.6% | Easy |
+|`5`| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 7 December 2020 | 30.0% | Medium |
+|`1143`| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 10 December 2020 | 58.5% | Medium |
+|`516`| [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 10 December 2020 | 54.6% | Medium |
+|`213`| [House Robber II](https://leetcode.com/problems/house-robber-ii/) | 11 December 2020 | 37.3% | Medium |
