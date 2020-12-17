@@ -186,3 +186,4 @@
 |`605`| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 16 December 2020 | 32.0% | Easy |
 |`45`| [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 16 December 2020 | 31.2% | Hard |
 |`134`| [Gas Station](https://leetcode.com/problems/gas-station/) | 17 December 2020 | 40.7% | Medium |
+|`763`| [Partition Labels](https://leetcode.com/problems/partition-labels/) | 17 December 2020 | 77.8% | Medium |
