@@ -185,3 +185,4 @@
 |`122`| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 14 December 2020 | 58.0% | Easy |
 |`605`| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 16 December 2020 | 32.0% | Easy |
 |`45`| [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 16 December 2020 | 31.2% | Hard |
+|`134`| [Gas Station](https://leetcode.com/problems/gas-station/) | 17 December 2020 | 40.7% | Medium |
