@@ -22,10 +22,11 @@ func Constructor() Trie {
 func (this *Trie) Insert(word string)  {
 	curr := this.root
 	for i := range word {
-		if curr.chars[word[i]-'a'] == nil {
-			curr.chars[word[i]-'a'] = &TrieNode{chars: [26]*TrieNode{}}
+		char := word[i]-'a'
+		if curr.chars[char] == nil {
+			curr.chars[char] = &TrieNode{chars: [26]*TrieNode{}}
 		}
-		curr = curr.chars[word[i]-'a']
+		curr = curr.chars[char]
 	}
 	curr.isWord = true
 }
@@ -35,10 +36,11 @@ func (this *Trie) Insert(word string)  {
 func (this *Trie) Search(word string) bool {
 	curr := this.root
 	for i := range word {
-		if curr.chars[word[i]-'a'] == nil {
+		char := word[i]-'a'
+		if curr.chars[char] == nil {
 			return false
 		}
-		curr = curr.chars[word[i]-'a']
+		curr = curr.chars[char]
 	}
 	return curr.isWord
 }
@@ -48,10 +50,11 @@ func (this *Trie) Search(word string) bool {
 func (this *Trie) StartsWith(prefix string) bool {
 	curr := this.root
 	for i := range prefix {
-		if curr.chars[prefix[i]-'a'] == nil {
+		char := prefix[i]-'a'
+		if curr.chars[char] == nil {
 			return false
 		}
-		curr = curr.chars[prefix[i]-'a']
+		curr = curr.chars[char]
 	}
 	return true
 }
