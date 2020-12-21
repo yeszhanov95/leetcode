@@ -189,3 +189,4 @@
 |`763`| [Partition Labels](https://leetcode.com/problems/partition-labels/) | 17 December 2020 | 77.8% | Medium |
 |`208`| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | 20 December 2020 | 51.2% | Medium |
 |`677`| [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | 21 December 2020 | 53.8% | Medium |
+|`211`| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 21 December 2020 | 39.5% | Medium |
