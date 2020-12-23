@@ -191,3 +191,4 @@
 |`677`| [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | 21 December 2020 | 53.8% | Medium |
 |`211`| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 21 December 2020 | 39.5% | Medium |
 |`79`| [Word Search](https://leetcode.com/problems/word-search/) | 22 December 2020 | 36.4% | Medium |
+|`648`| Replace Words](https://leetcode.com/problems/replace-words/) | 23 December 2020 | 58.0% | Medium |
