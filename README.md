@@ -193,3 +193,6 @@
 |`79`| [Word Search](https://leetcode.com/problems/word-search/) | 22 December 2020 | 36.4% | Medium |
 |`648`| [Replace Words](https://leetcode.com/problems/replace-words/) | 23 December 2020 | 58.0% | Medium |
 |`17`| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 24 December 2020 | 48.3% | Medium |
+|`19`| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 27 December 2020 | 35.5% | Medium |
+|`39`| [Combination Sum](https://leetcode.com/problems/combination-sum/) | 27 December 2020 | 58.5% | Medium |
+|`40`| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 31 December 2020 | 49.7% | Medium |
