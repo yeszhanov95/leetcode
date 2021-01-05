@@ -197,3 +197,4 @@
 |`39`| [Combination Sum](https://leetcode.com/problems/combination-sum/) | 27 December 2020 | 58.5% | Medium |
 |`40`| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 31 December 2020 | 49.7% | Medium |
 |`387`| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 5 January 2021 | 53.7% | Easy |
+|`378`| [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 5 January 2021 | 55.8% | Medium |
