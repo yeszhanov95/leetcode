@@ -199,3 +199,4 @@
 |`387`| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 5 January 2021 | 53.7% | Easy |
 |`378`| [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 5 January 2021 | 55.8% | Medium |
 |`238`| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 5 January 2021 | 56.8% | Medium |
+|`171`| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 6 January 2021 | 56.7% | Easy |
