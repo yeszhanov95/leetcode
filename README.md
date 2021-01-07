@@ -196,3 +196,10 @@
 |`19`| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 27 December 2020 | 35.5% | Medium |
 |`39`| [Combination Sum](https://leetcode.com/problems/combination-sum/) | 27 December 2020 | 58.5% | Medium |
 |`40`| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 31 December 2020 | 49.7% | Medium |
+|`387`| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 5 January 2021 | 53.7% | Easy |
+|`378`| [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 5 January 2021 | 55.8% | Medium |
+|`238`| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 5 January 2021 | 56.8% | Medium |
+|`171`| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 6 January 2021 | 56.7% | Easy |
+|`152`| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 6 January 2021 | 32.6% | Medium |
+|`739`| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 7 January 2021 | 64.3% | Medium |
+|`494`| [Target Sum](https://leetcode.com/problems/target-sum/) | 7 January 2021 | 45.9% | Medium |
