@@ -202,3 +202,4 @@
 |`171`| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 6 January 2021 | 56.7% | Easy |
 |`152`| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 6 January 2021 | 32.6% | Medium |
 |`739`| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 7 January 2021 | 64.3% | Medium |
+|`494`| [Target Sum](https://leetcode.com/problems/target-sum/) | 7 January 2021 | 45.9% | Medium |
