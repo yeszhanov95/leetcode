@@ -203,4 +203,5 @@
 |`152`| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 6 January 2021 | 32.6% | Medium |
 |`739`| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 7 January 2021 | 64.3% | Medium |
 |`494`| [Target Sum](https://leetcode.com/problems/target-sum/) | 7 January 2021 | 45.9% | Medium |
-|`581`| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 7 January 2021 | 31.6% | Medium |
+|`581`| [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 8 January 2021 | 31.6% | Medium |
+|`73`| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 9 January 2021 | 31.6% | Medium |
