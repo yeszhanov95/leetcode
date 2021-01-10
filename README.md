@@ -207,3 +207,4 @@
 |`11`| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 8 January 2021 | 52.1% | Medium |
 |`73`| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 9 January 2021 | 44.0% | Medium |
 |`238`| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 9 January 2021 | 61.2% | Medium |
+|`329`| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 10 January 2021 | 44.3% | Hard |
