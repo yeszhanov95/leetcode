@@ -209,3 +209,4 @@
 |`238`| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 9 January 2021 | 61.2% | Medium |
 |`329`| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 10 January 2021 | 44.3% | Hard |
 |`189`| [Rotate Array](https://leetcode.com/problems/rotate-array/) | 11 January 2021 | 36.4% | Medium |
+|`61`| [Rotate List](https://leetcode.com/problems/rotate-list/) | 11 January 2021 | 31.5% | Medium |
